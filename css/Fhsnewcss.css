@@ -1,0 +1,279 @@
+.juci_switch2_label{
+	position:relative;
+	right:4px;
+	}
+	
+.GenFHS{
+	position: relative;
+    top: 25px;
+    font-weight: bold;
+    left: 4px;
+	}
+
+  .fhscalculator{min-height:400px;
+    margin-top: 22px !important;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background:#ffffff;
+    padding-top:1px !important;
+}
+	.textborder{
+	border-top: none;
+    border-right: none;
+    border-left: none;
+    font-size:12px;
+    }	
+    
+   
+   .countless{
+   	margin-left:69px 	
+   	}
+   
+ .juci_form{
+   	margin-top:31px;
+    	}
+    	
+.FHSCalculator1 {
+    min-height: 500px;
+    margin-top: 22px !important;
+    margin-bottom: 13px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background:#ffffff;
+    padding-top:1px !important; 
+}     
+    .FHSCalculator2 {
+    min-height: 581px;
+    margin-top: 22px !important;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background:#ffffff;
+    padding-top:1px !important; 
+}   
+.FHSCalculator3 {
+    min-height: 426px;
+    margin-top: 22px !important;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background:#ffffff;
+    padding-top:1px !important; 
+}   
+ .FHSCalculator4 {
+    min-height: 455px;
+    margin-top: 22px !important;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background:#ffffff;
+    padding-top:1px !important; 
+}     
+    .FHSCalculator5 {
+    min-height: 553px;
+    margin-top: 22px !important;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background:#ffffff;
+    padding-top:1px !important; 
+}     
+    	.juci_button.save {
+    width: 42%;
+    background: #0B4DA1;
+    border-color: #0B4DA1;
+    font-size: 13px;
+    min-height: 38px;
+    border-radius: 4px;
+    display: inline-block;
+    float: left;
+    /* margin-left: 82px;*/
+   /* margin-top: 16px; */
+   /* margin-bottom:12px;*/
+	}
+	
+.btn{
+margin: 25px auto;
+}
+	
+	.count{
+		width:9px;
+		border:none;
+		margin-left:5px;
+		}
+   	.juci_button.save1 {
+    width: 42%;
+    background: #0B4DA1;
+    border-color: #0B4DA1;
+    font-size: 13px;
+    min-height: 38px;
+    border-radius: 4px;
+    display: inline-block;
+    float: left;
+    margin-left: 15px;
+   /* margin-top: 16px; */
+    margin-bottom:12px;
+	}
+		.juci_button.back1 {
+    width: 42%;
+    background: #0B4DA1;
+    border-color: #0B4DA1;
+    font-size: 13px;
+    min-height: 38px;
+    border-radius: 4px;
+    display: inline-block;
+    float: left;
+    margin-left: 15px;
+   /* margin-top: 16px; */
+    margin-bottom:12px;
+	}
+	
+	.dateofbirth
+	{
+    margin-bottom: 4px;
+    margin-top: 5px;
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.dateofbirth
+	{
+    margin-bottom: 4px;
+    margin-top: 5px;
+    }
+
+
+
+img.img-responsive-f1{
+      height: 169px;
+    text-align: center;
+    position: relative;
+    margin-left: 32%;
+      margin-top: 10px;
+}
+
+img.img-responsive-f2{
+      height: 169px;
+    text-align: center;
+    position: relative;
+    margin-left: 15%;
+      margin-top: 10px;
+}
+img.img-responsive-f3{
+      height: 169px;
+    text-align: center;
+    position: relative;
+    margin-left: 20%;
+      margin-top: 10px;
+}
+img.img-responsive-f4{
+      height: 169px;
+    text-align: center;
+    position: relative;
+    margin-left: 14%;
+      margin-top: 10px;
+}
+img.img-responsive-f5{
+      height: 169px;
+    text-align: center;
+    position: relative;
+    margin-left: 18%;
+      margin-top: 10px;
+}
+
+.xyz .juci_options{
+	
+    display:grid;
+    margin-left: 17px;
+    margin-top: 0px;
+	}
+.xyz .oplabel{
+	
+	width: 340px;
+	margin-top: 11px;
+
+
+	}
+	.radiotext .oplabel{
+	width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 11px;
+    margin-left: 5px;
+			
+			
+			}
+.radiofhs.juci_radiogroup .juci_options {
+    width: 95%;
+    padding-bottom: 5px;
+    margin-left: 15px;
+}
+.spousfhs.radioopts
+{
+	
+	margin-left: 12px;
+	
+	}
+
+button.juci_button.savetax1 {
+    width: 42%;
+    background: #0B4DA1;
+    border-color: #0B4DA1;
+    font-size: 13px;
+    min-height: 38px;
+    border-radius: 4px;
+    margin-left: 92px;
+    margin-top: 14px;
+    margin-bottom: 15px;
+    margin-left: 27%;
+}
+.childcount{
+	margin-left: 12px;
+}
+.textfhs.juci_ctrl_label{
+	
+	margin-left:20px;
+	}

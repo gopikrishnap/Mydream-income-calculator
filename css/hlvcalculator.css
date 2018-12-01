@@ -1,0 +1,132 @@
+.radiofhs.juci_radiogroup .juci_options {
+    width: 66%;
+    padding-bottom: 5px;
+    margin-left: 28px;
+}
+.radiofhs1f.juci_radiogroup .juci_options {
+    width: 58%;
+    padding-bottom: 5px;
+    margin-left: 18px;
+}
+
+.parent.juci_radiogroup .juci_options {
+    width: 55%;
+    padding-bottom: 5px;
+    margin-left: 28px;
+}
+
+
+.parent12.juci_radiogroup .juci_options {
+    width: 64%;
+    padding-bottom: 5px;
+    margin-left: 8px;
+}
+
+.childlabelnew{
+     margin-top: -51px;
+    margin-left: 63%;
+}
+.childlabelnew1{
+    /*position: absolute;
+    left: 198px;
+    bottom: 318px;*/
+    color: #0b4da1;
+    position: relative;
+    top: 8px;
+}
+
+
+	.childsel .juci_selectbox_box, .juci_datepicker_box, .juci_timepicker_box{
+	color:#666
+	}
+	
+
+.retsel1 .juci_selectbox_box, .juci_datepicker_box, .juci_timepicker_box{
+	color:rgb(52,52,52);
+	}
+	
+	.retsel .juci_selectbox_box, .juci_datepicker_box, .juci_timepicker_box{
+	color:rgb(52,52,52);
+	}
+	
+
+  @media (min-width: 480px) and (max-width: 800px)  {
+ 
+ .radiofhs.juci_radiogroup .juci_options {
+     width: 51%;
+    margin-left: 23px;
+
+ }
+ 
+ 
+ .parent.juci_radiogroup .juci_options {
+   
+    margin-left: 26px;
+}
+  }
+
+
+.ntouch .juci_parent .touch {
+background:#eee;
+}
+
+.ntouch .juci_linker {
+display:none;
+}
+
+
+.nlist ul.juci_xlist_pane.juci_xlist_listPane {
+    padding-bottom: 0;
+}
+
+.newres{
+	float: left;
+	margin-top: 12px;
+	width: 7%;	
+	}
+	
+.newres1{
+	float: left;
+	margin-top: 12px;
+	width: 6%;	
+	}	
+	
+.newresSavings{
+	float: left;
+	margin-top: 12px;
+	width: 9%;	
+	}	
+	
+	.newresSavings1{
+	float: left;
+	margin-top: 12px;
+	width: 14%;	
+	}	
+	
+.newreschild{
+	float: left;
+	margin-top: 12px;
+	width: 5%;	
+	}
+	
+	.newreschild12{
+	float: left;
+	margin-top: 12px;
+	width: 10%;
+	}
+
+
+
+.newtitle{
+margin-left:-11px;
+}
+		
+		
+.newhead{
+	padding-top: 0;
+	padding-left: 25px;
+	}
+	
+.clear{
+	clear: both;
+	}	
